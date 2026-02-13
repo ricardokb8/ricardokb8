@@ -64,3 +64,27 @@ I’m always open to collaborating on projects, discussing technology, or explor
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz%20Ricardo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-ricardo-roberto-oliveira-da-silva-843084249)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizricardo.lrros@gmail.com)
 
+## 📊 GitHub Stats
+
+### 👤 Profile Overview
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardokb8&theme=tokyonight)
+
+### 📈 Activity & Productivity
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ricardokb8&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ricardokb8&theme=tokyonight&utcOffset=-3)
+
+### 🔥 Contribution Timeline
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ricardokb8&theme=tokyo-night&hide_border=true&area=true)
+
+---
+
+## 🌟 Highlights & Core Competencies
+
+![Python Development](https://img.shields.io/badge/Python%20Development-APIs%20%7C%20Automation%20%7C%20Data-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Full Stack Web](https://img.shields.io/badge/Full%20Stack-Web%20Applications-0A66C2?style=for-the-badge&logo=javascript&logoColor=white)
+![Database Engineering](https://img.shields.io/badge/Database%20Engineering-SQL%20%7C%20Modeling%20%7C%20Optimization-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Insights%20%7C%20Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-Maintainable%20%7C%20Scalable-6f42c1?style=for-the-badge&logo=github)
+![Version Control](https://img.shields.io/badge/Version%20Control-Git%20%7C%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Analytical%20Thinking-2ea44f?style=for-the-badge)
+![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-Always%20Improving-blueviolet?style=for-the-badge)
