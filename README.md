@@ -89,20 +89,4 @@ I’m always open to collaborating on projects, discussing technology, or explor
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Analytical%20Thinking-2ea44f?style=for-the-badge)
 ![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-Always%20Improving-blueviolet?style=for-the-badge)
 
-## 🧠 Language Usage Breakdown
-
-### 📊 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardokb8&layout=compact&theme=tokyonight&langs_count=8)
-
----
-
-### 📈 Coding Distribution Overview
-This chart represents the percentage of programming languages used across my public repositories.
-
-- Backend & Automation (Python)
-- Web Development (JavaScript, HTML, CSS, PHP)
-- Database Engineering (SQL)
-- Data Visualization (Power BI)
-
-> Language statistics are automatically generated based on repository analysis.
 
