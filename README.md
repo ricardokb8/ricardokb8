@@ -62,6 +62,5 @@ Business intelligence dashboards, data visualization, and analytical reporting s
 I’m always open to collaborating on projects, discussing technology, or exploring new opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz%20Ricardo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-ricardo-roberto-oliveira-da-silva-843084249)
-
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizricardo.lrros@gmail.com)
 
